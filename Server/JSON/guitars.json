@@ -1,0 +1,72 @@
+[
+    {
+        "id": "GUI001",
+        "name": "Guitar Enya EA",
+        "image": "ukulele3.jpg",
+        "price": 600,
+        "brand": "Enya"
+    },
+    {
+        "id": "GUI002",
+        "name": "Guitar Model B",
+        "image": "ukulele2.jpg",
+        "price": 300,
+        "brand": "Brand B"
+    },
+    {
+        "id": "GUI003",
+        "name": "Guitar Model C",
+        "image": "ukulele3.jpg",
+        "price": 400,
+        "brand": "Brand C"
+    },
+    {
+        "id": "GUI004",
+        "name": "Guitar Model D",
+        "image": "ukulele3.jpg",
+        "price": 250,
+        "brand": "Brand D"
+    },
+    {
+        "id": "GUI005",
+        "name": "Guitar Model E",
+        "image": "ukulele3.jpg",
+        "price": 450,
+        "brand": "Brand E"
+    },
+    {
+        "id": "GUI006",
+        "name": "Guitar Model F",
+        "image": "ukulele3.jpg",
+        "price": 500,
+        "brand": "Brand F"
+    },
+    {
+        "id": "GUI007",
+        "name": "Guitar Model G",
+        "image": "ukulele3.jpg",
+        "price": 150,
+        "brand": "Brand G"
+    },
+    {
+        "id": "GUI008",
+        "name": "Guitar Model H",
+        "image": "ukulele3.jpg",
+        "price": 600,
+        "brand": "Brand H"
+    },
+    {
+        "id": "GUI009",
+        "name": "Guitar Model I",
+        "image": "ukulele3.jpg",
+        "price": 350,
+        "brand": "Brand I"
+    },
+    {
+        "id": "GUI010",
+        "name": "Guitar Model J",
+        "image": "ukulele3.jpg",
+        "price": 180,
+        "brand": "Brand J"
+    }
+]
